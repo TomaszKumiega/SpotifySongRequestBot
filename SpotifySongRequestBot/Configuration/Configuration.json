@@ -1,0 +1,13 @@
+{
+  "TwitchUsername": "",
+  "TwitchAccessToken": "",
+  "TwitchChannelName": "",
+  "SpotifyClientId": "",
+  "SpotifyClientSecret": "",
+  "SpotifyPlaylistId": "",
+
+  "CommandsConfig": {
+    "CommandPrefix": "!",
+    "SongRequest": "sr"
+  }
+}
